@@ -1,0 +1,5 @@
+Game_name:中大第一次體驗翹課的故事;
+Game_key:1493dfc672f5fe1;
+Title_img:WebGAL_New_Enter_Image.webp;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;

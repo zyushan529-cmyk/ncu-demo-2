@@ -1,0 +1,4 @@
+; 初始场景，以及特效演示
+intro:我是小明，一位剛步入中央大學的新生。期待遇見一見鍾情。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+小明:我不想上課，要不要翹課去約會呢?;
+choose:不翹課:classroom.txt|在寢室睡覺:选择场景文件;
